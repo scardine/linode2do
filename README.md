@@ -8,7 +8,7 @@ Raison d'être
 
 I prefer to use the ISP DNS servers than run my own, so I had a dozen domains served by the excelent Linod DNS manager.
 
-Digital Ocean also has a DNS manager, but migrating all domains manualy would be painful, so I wrote this script.
+Digital Ocean also has a DNS manager, but migrating all domains manualy would be painful - so I wrote this script.
 
 Pre-requisites
 --------------
