@@ -6,7 +6,7 @@ How to transfer DNS domains from Linode DNS manager to Digital Ocean
 Raison d'être
 -------------
 
-I prefer to use the ISP DNS servers than run my own, so I had a dozen domains served by the excelent Linode DNS manager. I've been a loyal Linode customer for years but DigitalOcean's offer is too good to ignore.
+I prefer to use the ISP DNS servers instead of running my own, so I had a dozen domains served by the excelent Linode DNS manager. I've been a loyal Linode customer for years but DigitalOcean's offer is too good to ignore.
 
 Digital Ocean also has a DNS manager, but migrating all domains manualy would be painful - so I wrote this script.
 
