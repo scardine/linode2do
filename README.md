@@ -86,5 +86,4 @@ Example:
 
 Get yourself a drink while the script copy all your domains from Linode DNS manager to Digital Ocean.
 
-It should be easy enough to modify this script to change the IP addresses from the Linode host for the Digital Ocean one, but I prefer to do this step by hand.
-
+It should be trivial to modify this script to replace the IP addresses from the Linode host for the Digital Ocean ones, but I prefer to do this step by hand so it is left as an exercise for the reader.
