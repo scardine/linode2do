@@ -1,14 +1,14 @@
 linode2do
 =========
 
-How to transfer DNS domains from Linode DNS manager to Digital Ocean
+How to transfer DNS domains from Linode DNS manager to DigitalOcean
 
 Raison d'être
 -------------
 
 I prefer to use the ISP DNS servers instead of running my own, so I had a dozen domains served by the excelent Linode DNS manager. I've been a loyal Linode customer for years but DigitalOcean's offer is too good to ignore.
 
-Digital Ocean also has a DNS manager, but migrating all domains manualy would be painful - so I wrote this script.
+DigitalOcean also has a DNS manager, but migrating all domains manually would be painful - so I wrote this script. If you are procrastinating your migration because of this, you don't have this excuse anymore. :-)
 
 Pre-requisites
 --------------
@@ -52,7 +52,7 @@ Replace `jdoe` and `thisisasecret` with your username and password and the resul
         "API_KEY": "ArbPtegl213ltegj32eegy1FrTfg7nS1kgVSQjwwJaBZb93bu9Pr3c6DgWc"
     }
 
-4. Get your client ID and API key for Digital Ocean
+4. Get your client ID and API key for DigitalOcean
 ---------------------------------------------------
 
 Go to https://cloud.digitalocean.com/api_access
